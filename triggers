@@ -1,0 +1,8 @@
+/my-actionsflow-workflow
+└── /workflows
+    └── workflow.yml
+└── /triggers
+    └── /my_trigger1
+        └── index.js
+        └── package.json
+    └── my_trigger2.js
